@@ -1,0 +1,2 @@
+This project showcases a UI/UX design concept inspired by the Spotify music streaming application. It aims to replicate the user interface and user experience elements of Spotify. Explore the design elements and layout by viewing the provided design mockups or prototypes. Contributions or feedback are appreciated. This project is focused solely on UI/UX design.
+For better understandung you can use the figma link file that i have already uploaded.
